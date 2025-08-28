@@ -1,9 +1,5 @@
 # React Weather App
 
-## 🌐 Live Demo
-
-[View Live Demo](https://anurag-2415.github.io/react-weather-app/)
-
 ## 📋 Overview
 
 This project is a **React Weather Application** that allows users to search for and view current weather conditions in various cities worldwide. It fetches real-time weather data from a weather API and displays information such as temperature, weather description, and more.
